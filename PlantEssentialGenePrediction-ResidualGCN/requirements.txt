@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+biopython
+matplotlib
+seaborn
+joblib
+torch
+torch-geometric
