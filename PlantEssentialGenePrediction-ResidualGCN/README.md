@@ -70,6 +70,17 @@ pip install -r requirements.txt
 
 Install the PyTorch and PyTorch Geometric builds that match your CUDA environment when GPU acceleration is required.
 
+
+## Current training parameters
+
+```text
+MAX_EPOCHS = 200
+POS_WEIGHT_CAP = 3.0
+FOCAL_ALPHA = 0.20
+FOCAL_GAMMA = 2.0
+EARLY_STOP_PATIENCE = 30
+```
+
 ## Run training
 
 ```bash
